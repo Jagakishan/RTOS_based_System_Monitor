@@ -29,7 +29,6 @@ Apart from the flash driver, every other driver involved is BareMetal implementa
 
 -RTC Timekeeping
 
---
 
 **Persistent Logging:**
 
@@ -45,6 +44,7 @@ Apart from the flash driver, every other driver involved is BareMetal implementa
 
 Minimalistic shell that has options for seeing elaborate run-time stats, flash log data, rtc time configuration and chip erase.
 
+---
 
 **FreeRTOS Features Demonstrated**
 
