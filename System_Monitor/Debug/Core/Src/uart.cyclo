@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Core/Src/uart.c:12:13:uart_transmit	2
+../Core/Src/uart.c:18:5:__io_putchar	1
+../Core/Src/uart.c:24:6:uart_read	5
+../Core/Src/uart.c:38:17:computeBaudRate	1
+../Core/Src/uart.c:42:13:setBaudRate	1
+../Core/Src/uart.c:46:6:uart_init	1
+../Core/Src/uart.c:86:6:USART2_IRQHandler	3

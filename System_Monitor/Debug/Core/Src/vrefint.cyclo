@@ -1,0 +1,2 @@
+../Core/Src/vrefint.c:11:7:scaleVoltage	1
+../Core/Src/vrefint.c:22:10:getIntVolt	2

@@ -1,0 +1,17 @@
+../Core/Src/main.c:116:6:vApplicationIdleHook	1
+../Core/Src/main.c:120:6:temperatureTask	1
+../Core/Src/main.c:130:6:vrefintTask	1
+../Core/Src/main.c:141:6:rtcTask	1
+../Core/Src/main.c:152:6:ramAndLoadStatsTask	1
+../Core/Src/main.c:164:6:logTask	2
+../Core/Src/main.c:194:6:readFlashTask	1
+../Core/Src/main.c:212:6:shellInputTask	15
+../Core/Src/main.c:308:6:getStatsTask	1
+../Core/Src/main.c:325:6:getLogTask	1
+../Core/Src/main.c:338:6:printTask	1
+../Core/Src/main.c:353:5:main	11
+../Core/Src/main.c:448:6:SystemClock_Config	3
+../Core/Src/main.c:490:13:MX_SPI1_Init	2
+../Core/Src/main.c:528:13:MX_GPIO_Init	1
+../Core/Src/main.c:565:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:583:6:Error_Handler	1

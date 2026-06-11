@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	16	static
+../Core/Src/uart.c:12:13:uart_transmit	16	static
+../Core/Src/uart.c:18:5:__io_putchar	16	static
+../Core/Src/uart.c:24:6:uart_read	24	static
+../Core/Src/uart.c:38:17:computeBaudRate	16	static
+../Core/Src/uart.c:42:13:setBaudRate	24	static
+../Core/Src/uart.c:46:6:uart_init	8	static
+../Core/Src/uart.c:86:6:USART2_IRQHandler	16	static,ignoring_inline_asm

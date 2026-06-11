@@ -1,0 +1,17 @@
+../Core/Src/main.c:116:6:vApplicationIdleHook	4	static
+../Core/Src/main.c:120:6:temperatureTask	16	static
+../Core/Src/main.c:130:6:vrefintTask	16	static
+../Core/Src/main.c:141:6:rtcTask	16	static
+../Core/Src/main.c:152:6:ramAndLoadStatsTask	16	static
+../Core/Src/main.c:164:6:logTask	96	static
+../Core/Src/main.c:194:6:readFlashTask	288	static
+../Core/Src/main.c:212:6:shellInputTask	56	static
+../Core/Src/main.c:308:6:getStatsTask	280	static
+../Core/Src/main.c:325:6:getLogTask	24	static
+../Core/Src/main.c:338:6:printTask	272	static
+../Core/Src/main.c:353:5:main	64	static,ignoring_inline_asm
+../Core/Src/main.c:448:6:SystemClock_Config	88	static
+../Core/Src/main.c:490:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:528:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:565:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:583:6:Error_Handler	4	static,ignoring_inline_asm

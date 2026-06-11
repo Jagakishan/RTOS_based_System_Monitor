@@ -1,0 +1,11 @@
+../Core/Src/rtc.c:10:13:enter_init_mode	4	static
+../Core/Src/rtc.c:18:13:exit_init_mode	4	static
+../Core/Src/rtc.c:26:13:set_asynch_prescale_value	4	static
+../Core/Src/rtc.c:31:13:set_synch_prescale_value	4	static
+../Core/Src/rtc.c:36:16:bcd2dec	16	static
+../Core/Src/rtc.c:40:16:dec2bcd	24	static
+../Core/Src/rtc.c:48:13:set_time	32	static
+../Core/Src/rtc.c:62:9:get_hours	16	static
+../Core/Src/rtc.c:69:9:get_minutes	16	static
+../Core/Src/rtc.c:76:9:get_seconds	16	static
+../Core/Src/rtc.c:83:6:rtc_init	24	static
